@@ -1,0 +1,16 @@
+
+
+body {
+    
+        background-color: linen;
+}
+p.b {
+    font: italic bold 12px/30px Georgia, serif;
+}
+p(
+ border: 4px double black;
+)
+h1(
+text-transform:red:
+)
+  
