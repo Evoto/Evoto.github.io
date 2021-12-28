@@ -1,0 +1,46 @@
+html>
+
+<head>
+
+
+
+<style>
+h1 (
+font-family: "Arial";
+color: red;
+)
+</style>
+<title>
+Мой сайт
+</title>
+</head>
+
+<body>
+body {
+    font: 200 18px/28px artifakt-element,sans-serif;
+        background-color: rgb(200, 30, 20);
+}
+
+<h1>Привет, <i>мир</i>!</h1>
+<p>Меня зовут <b>Егор Афанасьев</b>.</p>
+<br>Пять лет Сереже в январе,
+<br>Пока — четыре, пятый,
+<br>Но с ним играют во дворе
+<br>И взрослые ребята.
+
+<ul>
+<li>ccccc</li>
+<li>уууууу</li>
+<li>кккккк</li>
+<li>aaaaaa</li>
+
+</ul>
+
+
+
+<p></p>
+<a href="firstpage.htm">Обо мне</a>
+<img src="r.png" width=300 hight=300 align=right alt="буква р">
+</body>
+
+</html>
